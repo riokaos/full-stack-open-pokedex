@@ -17,4 +17,4 @@ jobs:
           date
       - name: Show folders
         run: |
-          ls
+          ls -l
